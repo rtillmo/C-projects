@@ -1,0 +1,20 @@
+Name: Rudolph Tillmon
+
+course: DPA 400
+
+email: rtillmo@clemson.edu
+
+Project #: 5
+
+Brief Description of Project: Apply what we learned in and outside of class about openGL and graphics using c coding, the coordinate system, color coding, and other variables.Also animate the object using an array of objects. 
+
+Additional contributions: Dr.Malloy, past student work, notes, internet
+
+Difficulties: My difficulties were creating the objects, syncing two objects together so that they move together at the same rate, and creating code to animate the objects without them flying off the screen or getting stuck.
+
+Improvement Beyond Specs: I tried to go beyond specs by adding colors when a ship hits the top or bottom screen border.
+
+Bugs: None that I know of.
+
+Drawbacks: (what I didn't do)
+I really wanted to add rotation to this animation, but couldn't get it to work with my code, so I sort of gave up on it, which make the animation plain in my opinion. 
